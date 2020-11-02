@@ -1,2 +1,2 @@
 # AKProApp
-Die Deaktop App des AK-Programmierens
+Die Desktop App des AK-Programmierens
